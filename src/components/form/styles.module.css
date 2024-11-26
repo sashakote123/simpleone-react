@@ -1,0 +1,39 @@
+.form {
+}
+
+span {
+    color: red;
+    margin-right: 4px;
+}
+
+.form__title {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 143%;
+    color: #2e3238;
+    margin-bottom: 8px;
+}
+
+.form__field {
+    display: flex;
+    align-items: flex-start;
+    gap: 4px;
+}
+
+.field__edit {
+    display: flex;
+    gap: 4px;
+}
+
+.edit {
+    border: 1px solid #d5d8dd;
+    border-radius: 4px;
+    padding: 6px;
+    width: 32px;
+    height: 32px;
+    background: #fff;
+}
+
+button:hover{
+    background-color: #fcfcfd;
+}

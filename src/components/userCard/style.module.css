@@ -1,0 +1,22 @@
+.card {
+    padding: 2px 8px;
+    display: inline-flex;
+    gap: 8px;
+    border: 1px solid #99d5ff;
+    border-radius: 4px;
+    padding: 0px 8px;
+    background: #e5f4ff;
+    max-width: 1000px;
+    max-height: 22px;
+}
+
+.card__name {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    color: #2e3238;
+
+    overflow: hidden;
+    /* white-space: nowrap; */
+    text-overflow: ellipsis;
+}

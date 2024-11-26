@@ -1,0 +1,56 @@
+.menu {
+    flex: 0 0 280px;
+    background-color: "#f4f4f4";
+}
+.menubar__list {
+    // position: absolute;
+    width: 280px;
+    height: 911px;
+    background: #fcfcfd;
+}
+.list__item {
+    padding: 10px 16px;
+    width: 280px;
+    height: 40px;
+}
+.item__title {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    color: #2e3238;
+
+    list-style: none;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+    &::marker {
+        content: "";
+    }
+    &::before {
+        content: url(./../../img/arrow.svg);
+        margin-right: 8;
+        transition: transform 0.3s ease;
+    }
+}
+
+.item__content {
+}
+
+.custom[open] summary::before {
+    transform: rotate(90deg);
+}
+
+.custom {
+    p {
+        position: relative;
+        z-index: 10;
+        padding: 5px;
+        background-color: white;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 143%;
+        color: #2e3238;
+    }
+}
+

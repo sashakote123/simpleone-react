@@ -1,0 +1,31 @@
+.menuBar {
+    left: 0;
+    padding: 16px;
+    /* top: 48px; */
+    display: flex;
+    flex-direction: column;
+    width: 56px;
+    gap: 16px;
+    height: 100vh;
+
+    border-right: 1px solid #d5d8dd;
+
+    @media screen and (max-width: 767px) {
+        position: absolute;
+        height: 56px;
+        top: 0;
+        border: none;
+        flex-direction: row;
+    }
+}
+
+.menuItem {
+    cursor: pointer;
+}
+
+.menuStar {
+    cursor: pointer;
+    @media screen and (max-width: 767px) {
+        display: none;
+    }
+}
