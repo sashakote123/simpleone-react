@@ -17,6 +17,5 @@
     color: #2e3238;
 
     overflow: hidden;
-    /* white-space: nowrap; */
     text-overflow: ellipsis;
 }
