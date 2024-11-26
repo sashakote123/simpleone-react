@@ -18,14 +18,14 @@ const LeftMenu = () => {
 
     return (
         <section className={styles.menu}>
-            <div style={{display:'flex'}}>
+            <div style={{ display: 'flex' }}>
                 <LeftBar handler={handleClick} />
                 <div ref={ref}>
                     <MenuSearch />
                     <ul className={styles.menubar__list}>
                         {list.map((item, index) => {
                             return (
-                                <li className={styles.list__item}>
+                                <li key={index} className={styles.list__item}>
                                     <details name='123' className={styles.custom}>
                                         <summary className={styles.item__title}>{item}</summary>
                                         <p className={styles.item__content}>{item}</p>

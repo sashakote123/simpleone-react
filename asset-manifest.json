@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/simpleone-react/static/css/main.083f401a.css",
-    "main.js": "/simpleone-react/static/js/main.e9f15d33.js",
+    "main.css": "/simpleone-react/static/css/main.46a84212.css",
+    "main.js": "/simpleone-react/static/js/main.9e59d78e.js",
     "static/media/Logo.svg": "/simpleone-react/static/media/Logo.afed8b2f2715fa0f417e87c15e4ae712.svg",
     "static/media/settings.svg": "/simpleone-react/static/media/settings.4aeade7e71c1ecc5f5e28d807204e858.svg",
     "static/media/unpin.svg": "/simpleone-react/static/media/unpin.dbe690c0fa5ef5c45bbed3322f27265c.svg",
@@ -15,11 +15,11 @@
     "static/media/plus.svg": "/simpleone-react/static/media/plus.2c737922f7cb1861c8cbcf01363a09f6.svg",
     "static/media/arrow.svg": "/simpleone-react/static/media/arrow.ec80e321771c8e7e534a.svg",
     "static/media/sidebar.svg": "/simpleone-react/static/media/sidebar.6a6b51aeacb0b8540b343be650be2663.svg",
-    "main.083f401a.css.map": "/simpleone-react/static/css/main.083f401a.css.map",
-    "main.e9f15d33.js.map": "/simpleone-react/static/js/main.e9f15d33.js.map"
+    "main.46a84212.css.map": "/simpleone-react/static/css/main.46a84212.css.map",
+    "main.9e59d78e.js.map": "/simpleone-react/static/js/main.9e59d78e.js.map"
   },
   "entrypoints": [
-    "static/css/main.083f401a.css",
-    "static/js/main.e9f15d33.js"
+    "static/css/main.46a84212.css",
+    "static/js/main.9e59d78e.js"
   ]
 }

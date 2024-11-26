@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <NavBar />
 
-      <div style={{ display: "flex", width: "100vw", height: "100vh", overflow: "hidden" }}>
+      <div style={{ display: "flex", height: "100vh", overflow: "hidden" }}>
         <aside style={{ flex: "1 1 auto" }}>
           <LeftMenu />
         </aside>

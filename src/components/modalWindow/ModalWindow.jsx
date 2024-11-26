@@ -1,14 +1,23 @@
+import { useRef } from 'react';
 import Form from '../form/Form';
 import UserCard from '../userCard/UserCard';
 import styles from './styles.module.scss'
 
 const ModalWindow = (props) => {
-
+    const ref = useRef()
     if (!props.isopen) return null
+
+
+    document.addEventListener('keydown', (event) => {
+        if (event.code === 'Escape') {
+            props.onClose()
+        }
+    });
+
 
     return (
         <>
-            <div className={styles.darkScreen}></div>
+            <div ref={ref} className={styles.darkScreen}></div>
             <section className={styles.modalWindow}>
 
                 <div className={styles.form}>
