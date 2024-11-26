@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.08253f2e.css",
-    "main.js": "/static/js/main.53bbe33a.js",
-    "static/media/Logo.svg": "/static/media/Logo.afed8b2f2715fa0f417e87c15e4ae712.svg",
-    "static/media/settings.svg": "/static/media/settings.4aeade7e71c1ecc5f5e28d807204e858.svg",
-    "static/media/unpin.svg": "/static/media/unpin.dbe690c0fa5ef5c45bbed3322f27265c.svg",
-    "static/media/star.svg": "/static/media/star.4755e4d95a59c0203a9e61d6a6262644.svg",
-    "static/media/date.svg": "/static/media/date.1370cc9eda64823e49ec131fec6a5aad.svg",
-    "static/media/search.svg": "/static/media/search.fdd7aa1a25c9072ac7657711416bcf6f.svg",
-    "static/media/search2.svg": "/static/media/search2.a5373fdedb5f4595556f0344970dd3c1.svg",
-    "static/media/filter.svg": "/static/media/filter.ea6d249bef66c7f75cded491fc0f3034.svg",
-    "static/media/x.svg": "/static/media/x.28310bd8abdad7ea36a8faa5faeac687.svg",
-    "static/media/plus.svg": "/static/media/plus.2c737922f7cb1861c8cbcf01363a09f6.svg",
-    "index.html": "/index.html",
-    "static/media/arrow.svg": "/static/media/arrow.ec80e321771c8e7e534a.svg",
-    "static/media/sidebar.svg": "/static/media/sidebar.6a6b51aeacb0b8540b343be650be2663.svg",
-    "main.08253f2e.css.map": "/static/css/main.08253f2e.css.map",
-    "main.53bbe33a.js.map": "/static/js/main.53bbe33a.js.map"
+    "main.css": "/simpleone-react/static/css/main.083f401a.css",
+    "main.js": "/simpleone-react/static/js/main.e9f15d33.js",
+    "static/media/Logo.svg": "/simpleone-react/static/media/Logo.afed8b2f2715fa0f417e87c15e4ae712.svg",
+    "static/media/settings.svg": "/simpleone-react/static/media/settings.4aeade7e71c1ecc5f5e28d807204e858.svg",
+    "static/media/unpin.svg": "/simpleone-react/static/media/unpin.dbe690c0fa5ef5c45bbed3322f27265c.svg",
+    "static/media/star.svg": "/simpleone-react/static/media/star.4755e4d95a59c0203a9e61d6a6262644.svg",
+    "static/media/date.svg": "/simpleone-react/static/media/date.1370cc9eda64823e49ec131fec6a5aad.svg",
+    "static/media/search.svg": "/simpleone-react/static/media/search.fdd7aa1a25c9072ac7657711416bcf6f.svg",
+    "static/media/search2.svg": "/simpleone-react/static/media/search2.a5373fdedb5f4595556f0344970dd3c1.svg",
+    "static/media/filter.svg": "/simpleone-react/static/media/filter.ea6d249bef66c7f75cded491fc0f3034.svg",
+    "static/media/x.svg": "/simpleone-react/static/media/x.28310bd8abdad7ea36a8faa5faeac687.svg",
+    "index.html": "/simpleone-react/index.html",
+    "static/media/plus.svg": "/simpleone-react/static/media/plus.2c737922f7cb1861c8cbcf01363a09f6.svg",
+    "static/media/arrow.svg": "/simpleone-react/static/media/arrow.ec80e321771c8e7e534a.svg",
+    "static/media/sidebar.svg": "/simpleone-react/static/media/sidebar.6a6b51aeacb0b8540b343be650be2663.svg",
+    "main.083f401a.css.map": "/simpleone-react/static/css/main.083f401a.css.map",
+    "main.e9f15d33.js.map": "/simpleone-react/static/js/main.e9f15d33.js.map"
   },
   "entrypoints": [
-    "static/css/main.08253f2e.css",
-    "static/js/main.53bbe33a.js"
+    "static/css/main.083f401a.css",
+    "static/js/main.e9f15d33.js"
   ]
 }
